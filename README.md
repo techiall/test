@@ -3,3 +3,5 @@
 - push
 - pull
 - releases
+- issues
+- wiki
